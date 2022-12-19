@@ -1,0 +1,17 @@
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.AssemblyInfo.cs
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Praktan6\Praktan6\bin\Debug\net6.0\Praktan6.exe
+C:\Users\Никита\source\repos\Praktan6\Praktan6\bin\Debug\net6.0\Praktan6.deps.json
+C:\Users\Никита\source\repos\Praktan6\Praktan6\bin\Debug\net6.0\Praktan6.runtimeconfig.json
+C:\Users\Никита\source\repos\Praktan6\Praktan6\bin\Debug\net6.0\Praktan6.dll
+C:\Users\Никита\source\repos\Praktan6\Praktan6\bin\Debug\net6.0\Praktan6.pdb
+C:\Users\Никита\source\repos\Praktan6\Praktan6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.csproj.CopyComplete
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.dll
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\refint\Praktan6.dll
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.pdb
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\Praktan6.genruntimeconfig.cache
+C:\Users\Никита\source\repos\Praktan6\Praktan6\obj\Debug\net6.0\ref\Praktan6.dll
